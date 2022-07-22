@@ -1,0 +1,5 @@
+﻿  add.c
+  源.c
+E:\Visual Studio 2022\1project\TEST\add.h(1,1): warning C4828: 文件包含在偏移 0x68 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  TEST.vcxproj -> E:\Visual Studio 2022\1project\TEST\x64\Debug\TEST.exe
